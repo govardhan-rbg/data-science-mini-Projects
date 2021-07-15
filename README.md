@@ -1,7 +1,7 @@
 # data-science-mini-Projects
 Includes machine learning  , Deep Learning ,  Natural Language Projects
 
-## Horese_Human_Regonition 
+## Hores_Human_Regonition 
 used convolutional Neural Network To recognise human and horse pictures . 
 Model Has acheived an accuracy of 98.5% on training set and 89.1% on validation set
 
