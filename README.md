@@ -15,7 +15,7 @@ Model has acheived an accuracy of 99.95%
 ## Food_Vision_Projrct
 
 Made 3 models using transfer learning by importing EfficientNetB0 model from Keras.applications api .
-In model 1 data is used without any data augumentation layer and achieved an accuracy of 70.45.
-In model 2 data augumentation is used and achieved an accuracy of 65.60
-Model 3 is made by fine tuning model 2 and achieved an accuracy of 71.27.
+In model 1 data is used without any data augumentation layer and achieved an accuracy of 70.45%.
+In model 2 data augumentation is used and achieved an accuracy of 65.60%.
+Model 3 is made by fine tuning model 2 and achieved an accuracy of 71.27%.
 All the results of the 3 models are stored and viewed on tensorboard using callback.
